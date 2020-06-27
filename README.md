@@ -1,0 +1,1 @@
+I is an example of an app with the use of Bootstrap 4 styling. We can create and delete the transactions which are stored in the local storage. Project available on https://madej-expensetracker.netlify.app/
